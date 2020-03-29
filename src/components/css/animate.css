@@ -1,0 +1,94 @@
+
+.fa-python {
+    color: #2973fc;
+  }
+
+
+  .fa-docker {
+    color: #2973fc;
+  }
+
+  .fa-git {
+    color: black;
+  }
+
+  
+.fa-react {
+    color: #2973fc;
+  }
+
+  
+.fa-html5 {
+    color: #fc6529;
+    
+  }
+
+  .fa-css3 {
+    color: #2973fc;
+  }
+
+  .fa-js {
+    color: #ebc108;
+  }
+
+  .fa-java {
+      color : #eb5008
+  }
+
+
+#con-fb:hover {
+    color: #0954e0;
+    cursor: pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition: color .5s ease;
+    transition: color .5s ease;
+  }
+
+#con-fb {
+    -webkit-transition: color .5s ease;
+    -o-transition: color .5s ease;
+    transition: color .5s ease;
+  }
+
+#con-ig:hover {
+    color: #fc07be;
+    cursor: pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition: color .5s ease;
+    transition: color .5s ease;
+  }
+
+#con-ig {
+    -webkit-transition: color .5s ease;
+    -o-transition: color .5s ease;
+    transition: color .5s ease;
+  }
+
+  #con-gh:hover {
+    color: #81169c;
+    cursor: pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition: color .5s ease;
+    transition: color .5s ease;
+  }
+
+#con-gh {
+    -webkit-transition: color .5s ease;
+    -o-transition: color .5s ease;
+    transition: color .5s ease;
+  }
+
+  #con-gl:hover {
+    color: #fc7d07;
+    cursor: pointer;
+    -webkit-transition: color .5s ease;
+    -o-transition: color .5s ease;
+    transition: color .5s ease;
+  }
+
+#con-gl {
+    -webkit-transition: color .5s ease;
+    -o-transition: color .5s ease;
+    transition: color .5s ease;
+  }
+

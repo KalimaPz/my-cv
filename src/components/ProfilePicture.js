@@ -14,7 +14,7 @@ const ProfilePicture = () => {
     }, [])
     return (
         <div class="profile">
-                <Avatar src="{imageUri}" size={200} />
+                <Avatar src={imageUri} size={200} />
                 <h2><br/>Donnukrit Satirakul<br/></h2>
             
         </div>

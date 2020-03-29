@@ -1,18 +1,20 @@
 import React from 'react'
 import './css/biocard.css'
+import { Divider } from 'antd'
 const BioCard = () => {
     return(
         <div >
-            <div data-aos="fade-up"><About/></div>
+            <div><About/></div>
             <br/>
-            <div data-aos="fade-up"><Interest/></div>
+            <div><Interest/></div>
         </div>
     )
 }
 const About = () => {
     return(
-        <div className="card">
-            <p data-aos="fade-up">
+        <div className="card" data-aos="fade-right">
+            <p>
+                <p><Divider orientation="left">About Me</Divider></p>
                 <p><b>Date of Birth</b> : 1 January 1997</p>
                 <p><b>Education</b> : Faculty of Engineering (Computer Engineering)</p>
                 <p><b>Main-Branch</b> : Information Engineering</p>
@@ -27,8 +29,8 @@ const About = () => {
 }
 const Interest = () => {
     return(
-        <div className="card">
-            <p data-aos="fade-up">
+        <div className="card" data-aos="fade-left">
+            <p>
                 <p><b>Interesting</b></p>
                 <ol> - Object-Oriented Programing</ol>
                 <ol> - Database Management</ol>

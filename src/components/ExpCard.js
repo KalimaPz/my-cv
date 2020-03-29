@@ -2,7 +2,7 @@ import React from 'react'
 import './css/expcard.css'
 const ExpCard = () => {
     return(
-        <div className="card">
+        <div className="card" data-aos="fade-up">
             <p>
                 <p><b>Teaching Assistant</b></p>
                 <ol> - Data Structure Programing </ol>
