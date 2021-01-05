@@ -13,7 +13,7 @@
     "@testing-library/user-event": "^7.1.2",
     "antd": "^4.0.4",
     "aos": "^2.3.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "particles-bg": "^2.4.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
